@@ -1,1 +1,1 @@
-# goalSettingApp
+# goal-setting-app
